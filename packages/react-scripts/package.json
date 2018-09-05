@@ -61,8 +61,10 @@
     "whatwg-fetch": "2.0.3"
   },
   "devDependencies": {
+    "node-sass": "^4.9.3",
     "react": "^16.0.0",
-    "react-dom": "^16.0.0"
+    "react-dom": "^16.0.0",
+    "sass-loader": "^7.1.0"
   },
   "optionalDependencies": {
     "fsevents": "^1.1.3"
